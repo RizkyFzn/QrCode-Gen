@@ -10,7 +10,7 @@ function App() {
     QRCode.toDataURL(
       url,
       {
-        width: 100,
+        width: 2000,
         margin: 1,
         color: {
           dark: '#000',
